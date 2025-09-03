@@ -15,14 +15,14 @@
 }
 
 .todo-input:focus {
-  border-color: #007bff;
+  border-color: #4e8acb;
 }
 
 .todo-button {
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #007bff;
-  color: white;
+  background-color: #1365bd;
+  color: rgb(190, 71, 71);
   border: none;
   border-radius: 5px;
   cursor: pointer;
